@@ -1,13 +1,22 @@
 this txt file holds the summary for each episode in short.
 
 
-1. intro to data science | 4 lesson
+1 | intro to data science | 4 lesson
     1. explaining all about ds field.
     2. showed how to access the handbook.
     3. data lifecycly
     4. data science tools : python, jupyter notebook, anaconda, miniconda, google collab
         ai : github copilot, cursor ai
 
-2. Understanding the conda environment
+2 | Understanding the conda environment
     1. installing anaconda : to use python for data science.
-    2. 
+    2. anaconda navigaton, conda utility prompt, conda is a package manager.
+    3. conda utility prompt > (conda list) : gives all the packages installed. 
+       if you want to access the conda prompt from the cmd/shell itself you need to initialize it (conda init) using the conda prompt.
+    4. conda prompt, environment, custom python version   
+    5. anaconda navigator quick tour
+    6. installed and ran > jupyter notebook, jupyter lab
+
+3 | python refresher
+    1. why we should use python
+    2. variables
