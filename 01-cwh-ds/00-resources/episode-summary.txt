@@ -1,0 +1,13 @@
+this txt file holds the summary for each episode in short.
+
+
+1. intro to data science | 4 lesson
+    1. explaining all about ds field.
+    2. showed how to access the handbook.
+    3. data lifecycly
+    4. data science tools : python, jupyter notebook, anaconda, miniconda, google collab
+        ai : github copilot, cursor ai
+
+2. Understanding the conda environment
+    1. installing anaconda : to use python for data science.
+    2. 
