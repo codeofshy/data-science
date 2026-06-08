@@ -1,0 +1,1 @@
+Data was not able to display as it takes string and our function is returning none because we are using print in the function.
