@@ -18,5 +18,5 @@ this txt file holds the summary for each episode in short.
     6. installed and ran > jupyter notebook, jupyter lab
 
 3 | python refresher
-    1. why we should use python
-    2. variables
+    - complete python refresher
+

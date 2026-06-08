@@ -1,0 +1,15 @@
+This is the sample file created.
+we will read  this file using python read method.
+
+twinkle twinle little star,
+how i wonder what you are,
+up above the world so high,
+like a diamond in the sky.
+
+chidiya chidiya aao na,
+aakar daana khao na,
+tum hamko achi lagti ho,
+tum humko pyaari lagti ho,
+
+chidiya chidiya aao na,
+aakar khana khao na.
