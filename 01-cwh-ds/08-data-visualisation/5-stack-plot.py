@@ -7,7 +7,7 @@ exploratory_data_analysis = [6,6,8,7,9,7,11]
 netflix = [1,2,1,4,1,2,3]
 content_creation = [0,0,0,1,0,0,0.5]
 
-labels = ["Coding", "coding", "exploratory_data_analysis", "Content creation"]
+labels = ["coding", "exploratory_data_analysis", "netflix", "Content creation"]
 colors = ['skyblue', 'lightgreen', 'gold', 'lightcoral']
 
 plt.figure(figsize=(10,6))    # charts scale size in inches
@@ -27,4 +27,6 @@ plt.ylabel('Hours')
 plt.legend(loc='best')
 plt.title("Shayan's schedule")
 plt.grid(True)
+
+plt.savefig('5-image.png')
 plt.show()
