@@ -1,0 +1,5 @@
+We have done the installation by this url : https://dev.mysql.com/downloads/installer/
+we have downloaded the full version of the workbench
+
+password is : "password"
+
