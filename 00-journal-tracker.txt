@@ -13,43 +13,43 @@ Will be Following codewithharry Data Science and python course course.
 ========== 06-06-2026 | complete new begining | once for all
 
 day 1 | 06-06-26: 
-    - deadline 16-06-2026 | starting fresh | intro about data science
+- deadline 16-06-2026 | starting fresh | intro about data science
 
 day 2 | 07-06-26 : 
-    - python refresher
+- python refresher
 
 day 3 | 08-06-26 :
-    - python refresher 
-    - project 1 - 1hr
-    - project 2 - 1hr
-    - numpy - 1hr 
-    - pandas - 1hr
+- python refresher 
+- project 1 - 1hr
+- project 2 - 1hr
+- numpy - 1hr 
+- pandas - 1hr
 
 day 4 | 09-06-26
-    - revision - 2 hr
+- revision - 2 hr
 
 day 5 | 10-06-26
-    - started with numpy
+- started with numpy
 
 day 6 | 11-06-26
-    - pandas
-    - data visualization
+- pandas
+- data visualization
 
 day 7 | 11-06-26
-    - data visualization
+- data visualization
 
 day 8 | 12-06-26
-    - 
+- 
 
 day 9 | 13-06-26
-    - SQL
+- SQL
 
 day 10 | 14-06-26
-    - SQL
+- SQL
 
 day 11 | 15-06-26
-    - SQL
-    - Reivision
+- SQL
+- Reivision
 
     
 
