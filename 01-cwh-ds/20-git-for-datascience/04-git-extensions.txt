@@ -1,2 +1,2 @@
 git graph
-git lens
+gitlens
