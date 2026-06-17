@@ -1,0 +1,77 @@
+Install git like a game with the default setting.
+> This will give you git bash command line access.
+> Also, will be your local version control working on your PC locally.
+
+
+To create a directory >>> mkdir folder_dir_name
+To delete a directory >>> mkdir -r folder_dir_name
+To create a file >>> touch file_name.fileType
+To delete a file >>> rm file_name.fileType
+
+
+
+git commands
+    > git init : initializes your current folder as a new repository.
+
+To configure
+    - Your personal details
+    git config --global user.name "Your Name"
+    git config --global user.email "you@example.com"
+    git config --global core.editor "code --wait"  # optional, sets VS Code as editor
+
+    - To verify 
+    git config --list
+
+
+To initializes
+    - create your own directory that you want to track
+    mkdir my-first-git-project
+    cd my-first-git-project
+
+    - to initializes
+    git init
+
+    - to check 
+    git status
+
+
+To track the files
+    - created directory and initialize
+    mkdir my-first-repo
+    cd my-first-repo
+    git init   
+        (Initialized empty Git repository in /path/to/my-first-repo/.git/)
+
+    - To clone a repo from the Github
+    git clone http-url-of-reo-you-want-to-clone
+
+    - To create a file 
+    echo "Hello Git!" > hello.txt
+
+    > To check the status
+    git status
+
+    > To add a file
+    git add file-name
+
+    > To add all modified file
+    git add .
+
+    > To commit the changes
+    git commit -m "Meanigful message"
+
+    > to see the commit history
+    git log
+
+    > For a shorter, cleaner view: of commit history
+    git log --oneline
+
+    > if you have added a file_name.txt with the latest changes. 
+    Now you don't want to commit as it has some issues.
+    and you want to restore the previous file from where you have made the changes.
+    git restore file_name.txt
+
+    > to restore all file changes
+    git restore .
+
+
