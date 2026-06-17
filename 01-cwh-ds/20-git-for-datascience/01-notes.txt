@@ -76,3 +76,12 @@ To track the files
 
 
 To see the difference between your previous and current file
+    > to check the difference in previous vs latest in file
+    > this works for only for those which are not yet staged, but shows under midified files
+    git diff file_name
+
+To get difference of current staged file vs previous commit
+    > git diff --staged
+
+To compare and give difference of the current commit with 1 last commit
+    > git diff HEAD~1 HEAD
