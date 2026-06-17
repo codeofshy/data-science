@@ -51,6 +51,13 @@ day 11 | 15-06-26
 - SQL
 - Reivision
 
-    
+day 12 | 16-06-26
+- Probability (weakly prepared need to study/invest more)
+- Probability distribution and central limit theorem (weakly prepared need to study/invest more)
+
+day 13 | 17-06-26
+- Git for datascience (Morning)
+- Using google colab for datascience (Afternoon)
+- Revision : Python refresher | Numpy | Pandas (Evening)
 
 
