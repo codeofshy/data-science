@@ -13,3 +13,8 @@ then whatever changes you perform on this branch and commit will be available as
 as soon as you switch to your main/master branch changes you made in your personal will not be shown.
 
 if you want to show your changes to the main/master repo you need to merge your branch with the main
+
+Steps to merge your branch to main/master branch of the repo:
+1. commit your changes in your personal branch_name (ex - shayan-main).
+2. switch to main/master branch.
+3. run the command : git merge branch_name (ex : git merge shayan-main)
