@@ -75,3 +75,4 @@ To track the files
     git restore .
 
 
+To see the difference between your previous and current file

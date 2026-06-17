@@ -56,8 +56,8 @@ day 12 | 16-06-26
 - Probability distribution and central limit theorem (weakly prepared need to study/invest more)
 
 day 13 | 17-06-26
-- Git for datascience (Morning)
-- Using google colab for datascience (Afternoon)
-- Revision : Python refresher | Numpy | Pandas (Evening)
+- Git for datascience | (Morning)
+- Using google colab for datascience | (Afternoon)
+- Revision : 03-Python refresher, 06-Numpy, 07-Pandas | (Evening)
 
 
