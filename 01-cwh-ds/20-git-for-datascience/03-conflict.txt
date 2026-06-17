@@ -1,3 +1,7 @@
 This is the file to teach about conflicts in git : 
 
 This is fun to learn and have a real world problems.
+
+This line of code is modified by the main branch :
+
+    git switch main
