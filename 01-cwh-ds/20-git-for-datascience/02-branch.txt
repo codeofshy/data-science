@@ -15,6 +15,20 @@ as soon as you switch to your main/master branch changes you made in your person
 if you want to show your changes to the main/master repo you need to merge your branch with the main
 
 Steps to merge your branch to main/master branch of the repo:
+***
+Before making any changes in your personal branch_name.
+Make sure your branch is updated to the current repo.
+so that changes made in the main/master pranch should also be visible in your branch.
+
+
+>>> git pull origin main
+***
 1. commit your changes in your personal branch_name (ex - shayan-main).
 2. switch to main/master branch.
 3. run the command : git merge branch_name (ex : git merge shayan-main)
+
+
+* to delete a branch once the feature-branch has been merged and it's purpose has been served.
+>> git branch -d branch_name
+
+to create new branch and use it >> git switch -c <branch_name>
