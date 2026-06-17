@@ -5,3 +5,11 @@ to create new branch and use it >> git checkout -b <branch_name>
 *** new version way
 to create use any branch >> git switch <branch_name>  
 to create new branch and use it >> git switch -b <branch_name>
+
+
+if you create a new branch ex : shayan-main
+
+then whatever changes you perform on this branch and commit will be available as far as you are in this branch.
+as soon as you switch to your main/master branch changes you made in your personal will not be shown.
+
+if you want to show your changes to the main/master repo you need to merge your branch with the main
