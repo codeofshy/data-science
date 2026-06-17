@@ -1,0 +1,3 @@
+This is the file to teach about conflicts in git : 
+
+This is fun to learn and have a real world problems.
