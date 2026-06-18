@@ -55,7 +55,7 @@ day 12 | 16-06-26
 - Probability (weakly prepared need to study/invest more)
 - Probability distribution and central limit theorem (weakly prepared need to study/invest more)
 
-day 13 | 17-06-26
+day 13 | 17-06-26 | --------(1st task done : 30% only completed)
 - Git for datascience | (Morning)
 - Using google colab for datascience | (Afternoon)
 - Revision : 03-Python refresher, 06-Numpy, 07-Pandas | (Evening)
