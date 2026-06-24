@@ -60,4 +60,6 @@ day 13 | 17-06-26 | --------(1st task done : 30% only completed)
 - Using google colab for datascience | (Afternoon)
 - Revision : 03-Python refresher, 06-Numpy, 07-Pandas | (Evening)
 
-
+day 14 | 24-06-26 
+- completed google colab video section and review. Also ran openai-whisper.
+- revision for list, set, tuple, dict
