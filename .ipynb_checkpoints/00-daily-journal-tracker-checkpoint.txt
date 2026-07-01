@@ -62,6 +62,4 @@ day 13 | 17-06-26 | --------(1st task done : 30% only completed)
 
 day 14 | 24-06-26 
 - completed google colab video section and review. Also ran openai-whisper.
-
-day 15 | 30-06-26
-- python revision
+- complete revision : python refresher
